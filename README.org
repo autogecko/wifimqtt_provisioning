@@ -1,0 +1,8 @@
+#+title: Readme
+
+* 기본 mqtt 서버
+- mqtt server: broker.hivemq.com
+- port: 1883
+- 구독 Topic
+  + sensor/기기고유번호/temperature
+  + deviceLog/기기고유번호
